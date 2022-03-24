@@ -1,6 +1,6 @@
 ![I'm a creater, programmer & gamer](https://github.com/YJ-928/YJ-928/blob/main/Twitter-banner-1_opt.jpg)
 
-# Yash Joshi
+# Yash B. Joshi
 ### Hi there 👋, I'm Yash Joshi
 ### I'm a Creator, Coder, & Gamer
 
