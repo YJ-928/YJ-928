@@ -2,9 +2,12 @@
 
 # Yash Joshi
 ### Hi there 👋, I'm Yash Joshi
-#### I have always enjoyed finding creative solutions to problems.
+### I'm a Creator, Coder, & Gamer
 
-Skills: Python / C / C++ / JS / HTML / CSS/ Matlab
+### My Skills:
+🅿 Python
+⌨ C , C++ 
+💻 JS , HTML , CSS
 
 
 
@@ -12,9 +15,9 @@ Skills: Python / C / C++ / JS / HTML / CSS/ Matlab
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-928)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-928&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928)  
 
