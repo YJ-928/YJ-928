@@ -2,7 +2,7 @@
 
 # Yash B. Joshi
 ### Hi there 👋, I'm Yash Joshi
-### I'm a Creator, Coder, Gamer & Developer.
+### I'm a Creator, Coder & Developer.
 
 ### My Skills:
 🅿 Python
