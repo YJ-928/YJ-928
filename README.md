@@ -20,6 +20,8 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928&theme=great-gatsby)  
 
 ![Profile views](https://gpvc.arturio.dev/YJ-928)
-![instagram](https://user-images.githubusercontent.com/68319416/231968859-a7fd17d6-021d-47fe-a16c-f0efa6389d66.svg)
-![linkedin](https://user-images.githubusercontent.com/68319416/231968928-a13a4321-1c83-4a5d-a3ac-22bf10b6ab5c.svg)
-![twitter](https://user-images.githubusercontent.com/68319416/231969002-3d10ce8d-7f48-427a-be80-5c36266edd77.svg)
+[<img src="https://user-images.githubusercontent.com/68319416/231968859-a7fd17d6-021d-47fe-a16c-f0efa6389d66.svg">]
+[<img src="https://user-images.githubusercontent.com/68319416/231968928-a13a4321-1c83-4a5d-a3ac-22bf10b6ab5c.svg">]
+[<img src="https://user-images.githubusercontent.com/68319416/231969002-3d10ce8d-7f48-427a-be80-5c36266edd77.svg">]
+
+[<img src="https://user-images.githubusercontent.com/68319416/231969917-e3fc87b1-14d3-4c05-866f-2f333d553437.svg">]
