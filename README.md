@@ -1,7 +1,7 @@
 ![I'm a creater, programmer & gamer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 
 # Yash B. Joshi
-### Helllo 👋, I'm Yash
+### Hello 👋, I'm Yash
 ### I'm a Creator, Coder & Developer.
 
 ## My Skills:
