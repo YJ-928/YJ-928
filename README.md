@@ -11,7 +11,7 @@
 🖥️ Backend Web Development: Node-js,NPM,Express-js,EJS,REST & APIs.
 💻 Databases: SQL,MongoDB,Mongoose,Authentication,Firebase,React.js,React Hooks
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YJ-928)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-joshi-566900213//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ybj_928/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_YashBJoshi)  
+[<img src='https://github.com/YJ-928/YJ-928/blob/main/github.svg' alt='github' height='40'>](https://github.com/YJ-928)  [<img src='https://github.com/YJ-928/YJ-928/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-joshi-566900213//)  [<img src='https://github.com/YJ-928/YJ-928/blob/main/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ybj_928/)  [<img src='https://github.com/YJ-928/YJ-928/blob/main/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_YashBJoshi)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
 
