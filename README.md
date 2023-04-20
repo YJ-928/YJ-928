@@ -5,13 +5,10 @@
 ### I'm a Creator, Coder & Developer.
 
 ## My Skills:
-🅿 Python
-⌨ C , C++ 
-💻 Front-End Web Development: HTML-5,CSS-3,Bootstrap-4,Javascript,ES6,DOM-Manipulation,jQuery,Bash-Command-Line,Git,GitHub & Version Control.
-🖥️ Backend Web Development: Node-js,NPM,Express-js,EJS,REST & APIs.
-💻 Databases: SQL,MongoDB,Mongoose,Authentication,Firebase,React.js,React Hooks
-
-[<img src='https://user-images.githubusercontent.com/68319416/231968607-311d3cbb-259f-4e44-ad5e-b54e756266ac.svg' alt='github' height='40'>](https://github.com/YJ-928)  [<img src='https://github.com/YJ-928/YJ-928/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-joshi-566900213//)  [<img src='https://github.com/YJ-928/YJ-928/blob/main/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ybj_928/)  [<img src='https://github.com/YJ-928/YJ-928/blob/main/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_YashBJoshi)  
+👨🏽‍💻 Python: Selenium (Automation), Telebot (Telegram-Bots), Computer Vision (OpenCV), CSV & Openpyxl (Csv & Excel Files).
+👨🏽‍💻 Front-End Web Development: HTML-5,CSS-3,Bootstrap-4,Javascript,DOM-Manipulation,Bash-Command-Line,Git,GitHub & Version Control.
+👨🏽‍💻 Databases: MongoDB (Shell, PyMongo)
+👨🏽‍💻 PLC-Programming: RaspberryPi-4B, Texas Tiva-C ,Arduino-Uno, Node-MCU, ESP-832, 8031-Microcontroller.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
 
