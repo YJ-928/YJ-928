@@ -6,8 +6,11 @@
 
 ## My Skills:
 👨🏽‍💻 Python: Selenium (Automation), Telebot (Telegram-Bots), Computer Vision (OpenCV), CSV & Openpyxl (Csv & Excel Files).
+
 👨🏽‍💻 Front-End Web Development: HTML-5,CSS-3,Bootstrap-4,Javascript,DOM-Manipulation,Bash-Command-Line,Git,GitHub & Version Control.
+
 👨🏽‍💻 Databases: MongoDB (Shell, PyMongo)
+
 👨🏽‍💻 PLC-Programming: RaspberryPi-4B, Texas Tiva-C ,Arduino-Uno, Node-MCU, ESP-832, 8031-Microcontroller.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
