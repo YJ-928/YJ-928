@@ -1,16 +1,52 @@
 ![I'm a creater, programmer & gamer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 
-## Hello 👋, I'm Yash
+# Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer.
 
 ## My Skills:
-👨🏽‍💻 Python: Selenium (Automation), Telebot (Telegram-Bots), Computer Vision (OpenCV), CSV & Openpyxl (Csv & Excel Files).
+### 👨🏻‍💻 Python (Professional-Level):
+####  a. Python Scripting and Automation
+####  b. Python Game Development
+####  c. Web Scraping
+####  d. Beautiful Soup
+####  e. Selenium Web Driver
+####  f. Request
+####  g. WTForms
+####  h. Data Science
+####  i. Pandas
+####  j. NumPy
+####  k. Matplotlib
+####  l. Plotly
+####  m. Scikit learn
+####  n. Seaborn
+####  o. Turtle
+####  p. Python GUI Desktop App Development
+####  q. Tkinter
 
-👨🏽‍💻 Front-End Web Development: HTML-5,CSS-3,Bootstrap-4,Javascript,DOM-Manipulation,Bash-Command-Line,Git,GitHub & Version Control.
+### 👨🏻‍💻 Front-End Web Development:
+#### a. HTML 5
+#### b. CSS 3
+#### c. Bootstrap 4
+#### d. Bash Command Line
+#### e. Git, GitHub and Version Control
 
-👨🏽‍💻 Databases: MongoDB (Shell, PyMongo)
+### 👨🏻‍💻 Backend Web Development:
+#### a. Flask
+#### b. REST
+#### c. APIs
 
-👨🏽‍💻 PLC-Programming: RaspberryPi-4B, Texas Tiva-C ,Arduino-Uno, Node-MCU, ESP-832, 8031-Microcontroller.
+### 👨🏻‍💻 Databases:
+#### a. SQL
+#### b. SQLite
+#### c. PostgreSQL
+#### d. Authentication
+
+### 👨🏻‍💻 PLC-Programming: 
+#### a. RaspberryPi-4B
+#### b. Texas Tiva-C 
+#### c. Arduino-Uno
+#### d. Node-MCU
+#### e. ESP-832
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
 
