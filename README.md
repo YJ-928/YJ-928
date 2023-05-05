@@ -1,17 +1,68 @@
-![I'm a creater, programmer & gamer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
+![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 
-# Yash B. Joshi
-### Hello 👋, I'm Yash
-### I'm a Creator, Coder & Developer.
+## Hello 👋, I'm Yash
+## I'm a Creator, Coder & Developer
 
-## My Skills:
-👨🏽‍💻 Python: Selenium (Automation), Telebot (Telegram-Bots), Computer Vision (OpenCV), CSV & Openpyxl (Csv & Excel Files).
+### 🥇 MY SKILLS 🏆
 
-👨🏽‍💻 Front-End Web Development: HTML-5,CSS-3,Bootstrap-4,Javascript,DOM-Manipulation,Bash-Command-Line,Git,GitHub & Version Control.
 
-👨🏽‍💻 Databases: MongoDB (Shell, PyMongo)
+### 🎯 PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
+####   🚩 Python Scripting and Automation
+####   🚩 Python Game Development
+####   🚩 Web Scraping
+####   🚩 Beautiful Soup
+####   🚩 Selenium Web Driver
+####   🚩 Request
+####   🚩 WTForms
+####   🚩 Data Science
+####   🚩 Pandas
+####   🚩 NumPy
+####   🚩 Matplotlib
+####   🚩 Plotly
+####   🚩 Scikit learn
+####   🚩 Seaborn
+####   🚩 Turtle
+####   🚩 Python GUI Desktop App Development
+####   🚩 Tkinter
 
-👨🏽‍💻 PLC-Programming: RaspberryPi-4B, Texas Tiva-C ,Arduino-Uno, Node-MCU, ESP-832, 8031-Microcontroller.
+### 🎯 FULL STACK WEB DEVELOPMENT 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
+
+### 🎯 FRONT-END WEB DEVELOPMENT 🎯
+####   🚩 HTML 5
+####   🚩 CSS 3
+####   🚩 Bootstrap 4
+####   🚩 Javascript ES6
+####   🚩 DOM Manipulation
+####   🚩 jQuery
+####   🚩 Bash Command Line
+####   🚩 Git, GitHub and Version Control
+
+### 🎯 BACK-END WEB DEVELOPMENT 🎯
+####   🚩 Flask
+####   🚩 REST
+####   🚩 APIs
+####   🚩 Node.js
+####   🚩 NPM
+####   🚩 Express.js
+####   🚩 EJS
+
+### 🎯 DATABASES 🎯
+####   🚩 SQL
+####   🚩 SQLite
+####   🚩 PostgreSQL
+####   🚩 Authentication
+####   🚩 MongoDB
+####   🚩 Mongoose
+####   🚩 Firebase
+####   🚩 React.js
+####   🚩 React Hooks
+
+### 🎯 PLC-BOARDS & EMBEDDED SYSTEMS 🎯
+####   🚩 RaspberryPi-4B
+####   🚩 Texas Tiva-C 
+####   🚩 Arduino-Uno
+####   🚩 Node-MCU
+####   🚩 ESP-832
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
 
