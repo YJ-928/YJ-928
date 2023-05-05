@@ -3,8 +3,8 @@
 # Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer.
 
-## My Skills:
-### 👨🏻‍💻 Python (Professional-Level):
+## MY SKILLS:
+### 👨🏻‍💻 PYTHON (Professional-Level):
 ####  a. Python Scripting and Automation
 ####  b. Python Game Development
 ####  c. Web Scraping
@@ -23,25 +23,25 @@
 ####  p. Python GUI Desktop App Development
 ####  q. Tkinter
 
-### 👨🏻‍💻 Front-End Web Development:
+### 👨🏻‍💻 FRONT-END WEB DEVELOPMENT:
 #### a. HTML 5
 #### b. CSS 3
 #### c. Bootstrap 4
 #### d. Bash Command Line
 #### e. Git, GitHub and Version Control
 
-### 👨🏻‍💻 Backend Web Development:
+### 👨🏻‍💻 BACK-END WEB DEVELOPMENT:
 #### a. Flask
 #### b. REST
 #### c. APIs
 
-### 👨🏻‍💻 Databases:
+### 👨🏻‍💻 DATABASES:
 #### a. SQL
 #### b. SQLite
 #### c. PostgreSQL
 #### d. Authentication
 
-### 👨🏻‍💻 PLC-Programming: 
+### 👨🏻‍💻 PLC-BOARDS & EMBEDDED SYSTEMS: 
 #### a. RaspberryPi-4B
 #### b. Texas Tiva-C 
 #### c. Arduino-Uno
