@@ -3,65 +3,65 @@
 ## Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer
 
-### 🥇MY SKILLS🏆:
+### 🥇 MY SKILLS 🏆
 
-### 🎯PYTHON:➡️(PROFESSIONAL LEVEL DEVELOPER)
-#### 🚩 Python Scripting and Automation
-#### ✅ Python Game Development
-#### ✅ Web Scraping
-####  d. Beautiful Soup
-####  e. Selenium Web Driver
-####  f. Request
-####  g. WTForms
-####  h. Data Science
-####  i. Pandas
-####  j. NumPy
-####  k. Matplotlib
-####  l. Plotly
-####  m. Scikit learn
-####  n. Seaborn
-####  o. Turtle
-####  p. Python GUI Desktop App Development
-####  q. Tkinter
-### FULL STACK WEB DEVELOPMENT:-
-### (PROFESSIONAL LEVEL DEVELOPER)
+### 🎯 PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
+####   🚩 Python Scripting and Automation
+####   🚩 Python Game Development
+####   🚩 Web Scraping
+####   🚩 Beautiful Soup
+####   🚩 Selenium Web Driver
+####   🚩 Request
+####   🚩 WTForms
+####   🚩 Data Science
+####   🚩 Pandas
+####   🚩 NumPy
+####   🚩 Matplotlib
+####   🚩 Plotly
+####   🚩 Scikit learn
+####   🚩 Seaborn
+####   🚩 Turtle
+####   🚩 Python GUI Desktop App Development
+####   🚩 Tkinter
 
-### 🎯FRONT-END WEB DEVELOPMENT:
-#### a. HTML 5
-#### b. CSS 3
-#### c. Bootstrap 4
-#### d. Javascript ES6
-#### e. DOM Manipulation
-#### f. jQuery
-#### d. Bash Command Line
-#### e. Git, GitHub and Version Control
+### 🎯 FULL STACK WEB DEVELOPMENT 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
 
-### 🎯BACK-END WEB DEVELOPMENT:
-#### a. Flask
-#### b. REST
-#### c. APIs
-#### d. Node.js
-#### e. NPM
-#### f. Express.js
-#### g. EJS
+### 🎯 FRONT-END WEB DEVELOPMENT 🎯
+####   🚩 HTML 5
+####   🚩 CSS 3
+####   🚩 Bootstrap 4
+####   🚩 Javascript ES6
+####   🚩 DOM Manipulation
+####   🚩 jQuery
+####   🚩 Bash Command Line
+####   🚩 Git, GitHub and Version Control
 
-### 🎯DATABASES:
-#### a. SQL
-#### b. SQLite
-#### c. PostgreSQL
-#### d. Authentication
-#### e. MongoDB
-#### f. Mongoose
-#### g. Firebase
-#### h. React.js
-#### i. React Hooks
+### 🎯 BACK-END WEB DEVELOPMENT 🎯
+####   🚩 Flask
+####   🚩 REST
+####   🚩 APIs
+####   🚩 Node.js
+####   🚩 NPM
+####   🚩 Express.js
+####   🚩 EJS
 
-### 🎯PLC-BOARDS & EMBEDDED SYSTEMS: 
-#### a. RaspberryPi-4B
-#### b. Texas Tiva-C 
-#### c. Arduino-Uno
-#### d. Node-MCU
-#### e. ESP-832
+### 🎯 DATABASES 🎯
+####   🚩 SQL
+####   🚩 SQLite
+####   🚩 PostgreSQL
+####   🚩 Authentication
+####   🚩 MongoDB
+####   🚩 Mongoose
+####   🚩 Firebase
+####   🚩 React.js
+####   🚩 React Hooks
+
+### 🎯 PLC-BOARDS & EMBEDDED SYSTEMS 🎯
+####   🚩 RaspberryPi-4B
+####   🚩 Texas Tiva-C 
+####   🚩 Arduino-Uno
+####   🚩 Node-MCU
+####   🚩 ESP-832
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
 
