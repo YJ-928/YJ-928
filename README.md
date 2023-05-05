@@ -1,11 +1,10 @@
 ![I'm a creater, programmer & gamer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 
-# Hello 👋, I'm Yash
+## Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer.
+### MY SKILLS:
 
-## MY SKILLS:
-
-## 👨🏻‍💻 PYTHON:
+### 👨🏻‍💻 PYTHON:
 ### (PROFESSIONAL LEVEL DEVELOPER)
 ####  a. Python Scripting and Automation
 ####  b. Python Game Development
@@ -24,8 +23,7 @@
 ####  o. Turtle
 ####  p. Python GUI Desktop App Development
 ####  q. Tkinter
-
-## FULL STACK WEB DEVELOPMENT:-
+### FULL STACK WEB DEVELOPMENT:-
 ### (PROFESSIONAL LEVEL DEVELOPER)
 
 ### 👨🏻‍💻 FRONT-END WEB DEVELOPMENT:
