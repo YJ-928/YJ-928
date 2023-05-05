@@ -6,7 +6,7 @@
 ### 🥇 MY SKILLS 🏆
 
 
-### 🎯 ![python_104451](https://user-images.githubusercontent.com/68319416/236435854-003eea7c-58a0-4894-a528-42a0cb3b9659.png) PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
+### 🎯 PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
 ####   🚩 Python Scripting and Automation
 ####   🚩 Python Game Development
 ####   🚩 Web Scraping
