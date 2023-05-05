@@ -5,7 +5,7 @@
 
 ## MY SKILLS:
 
-### 👨🏻‍💻 PYTHON:
+## 👨🏻‍💻 PYTHON:
 ### (PROFESSIONAL LEVEL DEVELOPER)
 ####  a. Python Scripting and Automation
 ####  b. Python Game Development
