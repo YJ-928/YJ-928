@@ -4,7 +4,9 @@
 ## I'm a Creator, Coder & Developer.
 
 ## MY SKILLS:
-### 👨🏻‍💻 PYTHON (Professional-Level):
+
+### 👨🏻‍💻 PYTHON:
+### (PROFESSIONAL LEVEL DEVELOPER)
 ####  a. Python Scripting and Automation
 ####  b. Python Game Development
 ####  c. Web Scraping
@@ -23,10 +25,16 @@
 ####  p. Python GUI Desktop App Development
 ####  q. Tkinter
 
+## FULL STACK WEB DEVELOPMENT:-
+### (PROFESSIONAL LEVEL DEVELOPER)
+
 ### 👨🏻‍💻 FRONT-END WEB DEVELOPMENT:
 #### a. HTML 5
 #### b. CSS 3
 #### c. Bootstrap 4
+#### d. Javascript ES6
+#### e. DOM Manipulation
+#### f. jQuery
 #### d. Bash Command Line
 #### e. Git, GitHub and Version Control
 
@@ -34,12 +42,21 @@
 #### a. Flask
 #### b. REST
 #### c. APIs
+#### d. Node.js
+#### e. NPM
+#### f. Express.js
+#### g. EJS
 
 ### 👨🏻‍💻 DATABASES:
 #### a. SQL
 #### b. SQLite
 #### c. PostgreSQL
 #### d. Authentication
+#### e. MongoDB
+#### f. Mongoose
+#### g. Firebase
+#### h. React.js
+#### i. React Hooks
 
 ### 👨🏻‍💻 PLC-BOARDS & EMBEDDED SYSTEMS: 
 #### a. RaspberryPi-4B
