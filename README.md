@@ -1,14 +1,14 @@
-![I'm a creater, programmer & gamer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
+![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 
 ## Hello 👋, I'm Yash
-## I'm a Creator, Coder & Developer.
-### MY SKILLS:
+## I'm a Creator, Coder & Developer
 
-### 👨🏻‍💻 PYTHON:
-### (PROFESSIONAL LEVEL DEVELOPER)
-####  a. Python Scripting and Automation
-####  b. Python Game Development
-####  c. Web Scraping
+### 🥇MY SKILLS🏆:
+
+### 🎯PYTHON:➡️(PROFESSIONAL LEVEL DEVELOPER)
+#### 🚩 Python Scripting and Automation
+#### ✅ Python Game Development
+#### ✅ Web Scraping
 ####  d. Beautiful Soup
 ####  e. Selenium Web Driver
 ####  f. Request
@@ -26,7 +26,7 @@
 ### FULL STACK WEB DEVELOPMENT:-
 ### (PROFESSIONAL LEVEL DEVELOPER)
 
-### 👨🏻‍💻 FRONT-END WEB DEVELOPMENT:
+### 🎯FRONT-END WEB DEVELOPMENT:
 #### a. HTML 5
 #### b. CSS 3
 #### c. Bootstrap 4
@@ -36,7 +36,7 @@
 #### d. Bash Command Line
 #### e. Git, GitHub and Version Control
 
-### 👨🏻‍💻 BACK-END WEB DEVELOPMENT:
+### 🎯BACK-END WEB DEVELOPMENT:
 #### a. Flask
 #### b. REST
 #### c. APIs
@@ -45,7 +45,7 @@
 #### f. Express.js
 #### g. EJS
 
-### 👨🏻‍💻 DATABASES:
+### 🎯DATABASES:
 #### a. SQL
 #### b. SQLite
 #### c. PostgreSQL
@@ -56,7 +56,7 @@
 #### h. React.js
 #### i. React Hooks
 
-### 👨🏻‍💻 PLC-BOARDS & EMBEDDED SYSTEMS: 
+### 🎯PLC-BOARDS & EMBEDDED SYSTEMS: 
 #### a. RaspberryPi-4B
 #### b. Texas Tiva-C 
 #### c. Arduino-Uno
