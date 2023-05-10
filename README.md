@@ -30,10 +30,7 @@
 
 ## Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928&theme=great-gatsby)  
-
-
+ 
 
 ### 🥇 MY SKILLS 🏆
 ### 🎯 PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
@@ -95,4 +92,7 @@
 ####   🚩 Node-MCU
 ####   🚩 ESP-832
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928&theme=great-gatsby) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-928&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
