@@ -26,13 +26,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 ![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
+![Profile views](https://gpvc.arturio.dev/YJ-928)
 
 ## Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928&theme=great-gatsby)  
+
+
 
 ### 🥇 MY SKILLS 🏆
-
-
 ### 🎯 PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
 ####   🚩 Python Scripting and Automation
 ####   🚩 Python Game Development
@@ -92,11 +95,4 @@
 ####   🚩 Node-MCU
 ####   🚩 ESP-832
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-928&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928&theme=great-gatsby)  
-
-![Profile views](https://gpvc.arturio.dev/YJ-928)
-
