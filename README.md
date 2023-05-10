@@ -51,6 +51,7 @@
 ####   🚩 Turtle
 ####   🚩 Python GUI Desktop App Development
 ####   🚩 Tkinter
+####   🚩 Telebot
 
 ### 🎯 FULL STACK WEB DEVELOPMENT 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
 
