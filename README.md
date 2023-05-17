@@ -1,8 +1,22 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-F9DC3E?style=flat&logo=babel&logoColor=black)
+![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=datadotai&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4B5562?style=flat&logo=Matrix&logoColor=black)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![PyGame](https://img.shields.io/badge/PyGame-556DB3?style=flat&logo=PCGamingWiki&logoColor=black)
+![Request](https://img.shields.io/badge/Request-DD4B39?style=flat&logo=Reason&logoColor=black)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-21B352?style=flat&logo=sellfy&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white)
+![Smptlib](https://img.shields.io/badge/Smptlib-0089CF?style=flat&logo=Sega&logoColor=white)
+![Telebot](https://img.shields.io/badge/Telebot-00B0D8?style=flat&logo=Probot&logoColor=black)
+![Tkinter](https://img.shields.io/badge/Tkinter-36465D?style=flat&logo=Tumblr&logoColor=black)
+![Turtle](https://img.shields.io/badge/Turtle-FFD400?style=flat&logo=TVTime&logoColor=black)
+![WebScraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=webstorm&logoColor=white)
+![WTForms](https://img.shields.io/badge/WTForms-5BC4EE?style=flat&logo=write.as&logoColor=black)
+
 
 ![FullStackDev](https://img.shields.io/badge/Full%20Stack%20WebDev-informational?style=flat)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -23,10 +37,6 @@
 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![ArduinoMega](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 
 ![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 ![Profile views](https://gpvc.arturio.dev/YJ-928)
@@ -37,65 +47,65 @@
 
 ### 🥇 MY SKILLS 🏆
 ### 🎯 PYTHON 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
-####   🚩 Python Scripting and Automation
-####   🚩 Python Game Development
-####   🚩 Web Scraping
 ####   🚩 Beautiful Soup
-####   🚩 Selenium Web Driver
-####   🚩 Request
-####   🚩 WTForms
 ####   🚩 Data Science
-####   🚩 Pandas
-####   🚩 NumPy
 ####   🚩 Matplotlib
+####   🚩 NumPy
+####   🚩 Pandas
 ####   🚩 Plotly
+####   🚩 PyGame
+####   🚩 Request
 ####   🚩 Scikit learn
 ####   🚩 Seaborn
-####   🚩 Turtle
-####   🚩 Python GUI Desktop App Development
-####   🚩 Tkinter
-####   🚩 PyGame
+####   🚩 Selenium Web Driver
+####   🚩 Smptlib Email Module
 ####   🚩 Telebot
+####   🚩 Tkinter
+####   🚩 Turtle
+####   🚩 Web Scraping
+####   🚩 WTForms
+####   🚩 Python Game Development
+####   🚩 Python GUI Desktop App Development
+####   🚩 Python Scripting and Automation
 
 ### 🎯 FULL STACK WEB DEVELOPMENT 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
 
 ### 🎯 FRONT-END WEB DEVELOPMENT 🎯
-####   🚩 HTML 5
-####   🚩 CSS 3
-####   🚩 Bootstrap 4
-####   🚩 Javascript ES6
-####   🚩 DOM Manipulation
-####   🚩 jQuery
 ####   🚩 Bash Command Line
+####   🚩 Bootstrap 4
+####   🚩 CSS 3
+####   🚩 DOM Manipulation
 ####   🚩 Git, GitHub and Version Control
+####   🚩 HTML 5
+####   🚩 Javascript ES6
+####   🚩 jQuery
 
 ### 🎯 BACK-END WEB DEVELOPMENT 🎯
-####   🚩 Flask
-####   🚩 REST
 ####   🚩 APIs
+####   🚩 EJS
+####   🚩 Express.js
+####   🚩 Flask
 ####   🚩 Node.js
 ####   🚩 NPM
-####   🚩 Express.js
-####   🚩 EJS
+####   🚩 REST
 
 ### 🎯 DATABASES 🎯
-####   🚩 SQL
-####   🚩 SQLite
-####   🚩 PostgreSQL
 ####   🚩 Authentication
+####   🚩 Firebase
 ####   🚩 MongoDB
 ####   🚩 Mongoose
-####   🚩 Firebase
-####   🚩 React.js
+####   🚩 PostgreSQL
 ####   🚩 React Hooks
+####   🚩 React.js
+####   🚩 SQL
+####   🚩 SQLite
 
 ### 🎯 PLC-BOARDS & EMBEDDED SYSTEMS 🎯
+####   🚩 Arduino-Uno
+####   🚩 ESP-832
+####   🚩 Node-MCU
 ####   🚩 RaspberryPi-4B
 ####   🚩 Texas Tiva-C 
-####   🚩 Arduino-Uno
-####   🚩 Node-MCU
-####   🚩 ESP-832
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-928&theme=great-gatsby&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YJ-928&theme=great-gatsby) 
