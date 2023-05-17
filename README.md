@@ -17,26 +17,47 @@
 ![WebScraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=webstorm&logoColor=white)
 ![WTForms](https://img.shields.io/badge/WTForms-5BC4EE?style=flat&logo=write.as&logoColor=black)
 
-
-![FullStackDev](https://img.shields.io/badge/Full%20Stack%20WebDev-informational?style=flat)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
-![BootStrap4](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD.svg?sstyle=flat&logo=jQuery&logoColor=white)
+![FullStackDeveloper](https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-734F96?style=flat&logo=Fortran&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white)
+![BootStrap4](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-008DE4?style=flat&logo=Dash&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD.svg?sstyle=flat&logo=jQuery&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-009688?style=flat&logo=FastAPI&logoColor=black)
+![EJs](https://img.shields.io/badge/EJs-F16521?style=flat&logo=Etsy&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
-![SQLLIte](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)
+![REST](https://img.shields.io/badge/REST-BF0000?style=flat&logo=rakuten&logoColor=black)
+![Authentication](https://img.shields.io/badge/Authentication-EC1C24?style=flat&logo=Authy&logoColor=black)
+![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=Firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=flat&logo=Mongoose&logoColor=white)
-![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=Firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=SQLite&logoColor=white)
+![ReactHooks](https://img.shields.io/badge/React%20Hooks-B7178C?style=flat&logo=React&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=black)
+![SQLLIte](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)
 
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=Raspberry-Pi&logoColor=white)
+![EMBEDDED-SYSTEMS](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-000000?style=flat&logo=e&logoColor=white)
 ![ArduinoMega](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP-000000?style=flat&logo=ESPHome&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/Node%20MCU-03C75A?style=flat&logo=Naver&logoColor=black)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=Raspberry-Pi&logoColor=white)
+![Texas](https://img.shields.io/badge/Texas-FFFFFF?style=flat&logo=talenthouse&logoColor=black)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=GitLab&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=Netlify&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white)
 
 ![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 ![Profile views](https://gpvc.arturio.dev/YJ-928)
@@ -75,7 +96,6 @@
 ####   🚩 Bootstrap 4
 ####   🚩 CSS 3
 ####   🚩 DOM Manipulation
-####   🚩 Git, GitHub and Version Control
 ####   🚩 HTML 5
 ####   🚩 Javascript ES6
 ####   🚩 jQuery
