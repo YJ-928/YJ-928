@@ -1,24 +1,19 @@
-![CodingSkills](https://img.shields.io/badge/Coding%20Skills-critical?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-![FrontEnd](https://img.shields.io/badge/Front%20End-critical?style=flat)
+![FullStackDev](https://img.shields.io/badge/Full%20Stack%20WebDev-informational?style=flat)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)
 ![BootStrap4](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD.svg?sstyle=flat&logo=jQuery&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white)
-
-![BackEnd](https://img.shields.io/badge/Back%20End-critical?style=flat)
 ![FLASK](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)
-
-![DataBases](https://img.shields.io/badge/DataBases-critical?style=flat)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
 ![SQLLIte](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white)
@@ -26,10 +21,8 @@
 ![FireBase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=Firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)
 
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-critical?style=flat)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![ArduinoMega](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -61,6 +54,7 @@
 ####   🚩 Turtle
 ####   🚩 Python GUI Desktop App Development
 ####   🚩 Tkinter
+####   🚩 PyGame
 ####   🚩 Telebot
 
 ### 🎯 FULL STACK WEB DEVELOPMENT 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
