@@ -42,23 +42,6 @@
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=black)
 ![SQLLIte](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)
 
-![EMBEDDED-SYSTEMS](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-000000?style=flat&logo=e&logoColor=white)
-![ArduinoMega](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP-000000?style=flat&logo=ESPHome&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/Node%20MCU-03C75A?style=flat&logo=Naver&logoColor=black)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=Raspberry-Pi&logoColor=white)
-![Texas](https://img.shields.io/badge/Texas-FFFFFF?style=flat&logo=talenthouse&logoColor=black)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=GitLab&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=Netlify&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat&logo=Udemy&logoColor=white)
-
 ![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
 ![Profile views](https://gpvc.arturio.dev/YJ-928)
 
