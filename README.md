@@ -17,7 +17,7 @@
 ![WebScraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=webstorm&logoColor=white)
 ![WTForms](https://img.shields.io/badge/WTForms-5BC4EE?style=flat&logo=write.as&logoColor=black)
 
-![FullStackDeveloper](https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-734F96?style=flat&logo=Fortran&logoColor=white)
+![FullStackDeveloper](https://img.shields.io/badge/Full%20Stack-734F96?style=flat&logo=Fortran&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white)
 ![BootStrap4](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
