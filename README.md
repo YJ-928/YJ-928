@@ -72,7 +72,7 @@
 ####   🚩 Python GUI Desktop App Development
 ####   🚩 Python Scripting and Automation
 
-### 🎯 FULL STACK WEB DEVELOPMENT 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
+### 🎯 FULL STACK 🎯 ➡️ (PROFESSIONAL LEVEL DEVELOPER)
 
 ### 🎯 FRONT-END WEB DEVELOPMENT 🎯
 ####   🚩 Bash Command Line
