@@ -1,4 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
+
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-F9DC3E?style=flat&logo=babel&logoColor=black)
 ![Data Science](https://img.shields.io/badge/Data%20Science-000000?style=flat&logo=datadotai&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-4B5562?style=flat&logo=Matrix&logoColor=black)
@@ -18,6 +19,7 @@
 ![WTForms](https://img.shields.io/badge/WTForms-5BC4EE?style=flat&logo=write.as&logoColor=black)
 
 ![FullStackDeveloper](https://img.shields.io/badge/Full%20Stack%20Developer-734F96?style=flat&logo=Fortran&logoColor=white)
+
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white)
 ![BootStrap4](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
