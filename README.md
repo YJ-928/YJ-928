@@ -1,4 +1,4 @@
-![FullStackDeveloper](https://img.shields.io/badge/Full%20Stack%20Developer-EC1C24?style=flat-square)
+![FullStackDeveloper](https://img.shields.io/badge/Full%20Stack%20Web%20Developer-EC1C24?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%203-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![BootStrap4](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)
