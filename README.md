@@ -19,7 +19,6 @@
 
 
 ![I'm a Creator, Coder & Developer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
-![Profile views](https://gpvc.arturio.dev/YJ-928)
 
 ## Hello 👋, I'm Yash
 ## I'm a Creator, Coder & Developer
