@@ -1,11 +1,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-21B352?style=flat&logo=sellfy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-36465D?style=flat&logo=Tumblr&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
 
+![DataAnalytics](https://img.shields.io/badge/Data%20Analytics-EC1C24?style=flat-square)
 
 ![FullStackDeveloper](https://img.shields.io/badge/Full%20Stack%20Web%20Developer-EC1C24?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
