@@ -1,4 +1,4 @@
-![DataAnalytics](https://img.shields.io/badge/Data%20Analytics-3776AB.svg?style=flat-square&logo=databricks&logoColor=orange)
+![DataAnalytics](https://img.shields.io/badge/Data%20Analytics-23E34F26.svg?style=flat-square&logo=databricks&logoColor=black)
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white)
