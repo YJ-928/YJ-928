@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Yash
-#### A Data Analyst & Python Developer
+#### A data analyst and python developer
 🚀 I'm passionate about coding, data science, and building projects that solve real-world problems. I'm working on a stock price prediction program to help identify the best stocks to buy.
 Feel free to check out my repositories and collaborate! 🚀
 
