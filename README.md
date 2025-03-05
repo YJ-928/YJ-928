@@ -15,7 +15,7 @@ Skills: Python, SQL, PowerBI, Tableau, HTML-5, CSS-3, Bootstrap
 [<img src='https://a.slack-edge.com/80588/img/plugins/github/service_512.png' alt='github' height='30'>](https://github.com/YJ-928)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s' alt='linkedin' height='30'>](https://www.linkedin.com/in/yash-b-joshi//)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png' alt='instagram' height='30'>](https://www.instagram.com/ybj_928/)  [<img src='https://blwebsite.b-cdn.net/wp-content/uploads/2023/08/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-1704x958-1.jpg' alt='twitter' height='30'>](https://twitter.com/_YashBJoshi)  [<img src='https://cdn3.iconfinder.com/data/icons/social-media-square-4/1024/square-10-512.png' alt='website' height='30'>](https://yashbjoshi-portfolio.netlify.app/)  
 
 <a href="https://github.com/YJ-928/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YJ-928&show_icons=true&theme=codeSTACKr&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YJ-928&show_icons=true&theme=codeSTACKr&hide_rank=true" />
 </a>
 <a href="https://github.com/YJ-928/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-928&layout=compact&theme=codeSTACKr" />
