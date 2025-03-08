@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Yash
-#### ✨ Data Analyst and Python Developer
-🚀 I'm passionate about coding, data science, and building projects that solve real-world problems. I'm working on a stock price prediction program to help identify the best stocks to buy.
-Feel free to check out my repositories and collaborate! 🚀
+#### Data Analyst and Python Developer
 
-Skills: Python, SQL, PowerBI, Tableau, HTML-5, CSS-3, Bootstrap
+I'm interested in coding, data science, and creating projects that can address real-world issues. I'm currently developing a stock price predictor program to determine the best stocks to invest in.
+Feel free to check out my repositories and contribute!
+
+**Skills**: Python, SQL, PowerBI, Tableau, HTML-5, CSS-3, Bootstrap
 
 <img src='https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1' alt='Python' height='30'> <img src='https://skillforge.com/wp-content/uploads/2021/01/sql-querying.jpg' alt='SQL' height='30'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsReGTA8LX2JZRBhy5J4uyJHjXBFUp6inDyg&s' alt='PowerBI' height='30'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdD07Wmb_onuF5t2hwRKrBH7HYc7fCE0A0A&s' alt='Tableau' height='30'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s' alt='HTML5' height='30'> <img src='https://miro.medium.com/v2/resize:fit:300/1*Aenej4dxqEZ9j7zsI9pSnw.png' alt='CSS3' height='30'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='Bootstrap' height='30'>
 
