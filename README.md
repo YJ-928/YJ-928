@@ -1,19 +1,36 @@
 ### Hi there 👋, I'm Yash
 #### Backend Developer, Backend Engineer and Data Analyst
 
-I'm interested in coding, data science, and creating projects that can address real-world issues. I'm currently developing a stock price predictor program to determine the best stocks to invest in.
+I'm interested in coding, data science, and creating projects that can address real-world issues. I'm currently developing a stock price predictor program to determine the best stocks to invest in.  
 Feel free to check out my repositories and contribute!
 
-**Skills**: FastAPI, Django (DRF), Python, SQL, PostgreSQL, PowerBI, Tableau, Data Analytics and Data Analysis
+---
 
-<img src='https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1' alt='Python' height='30'> <img src='https://skillforge.com/wp-content/uploads/2021/01/sql-querying.jpg' alt='SQL' height='30'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsReGTA8LX2JZRBhy5J4uyJHjXBFUp6inDyg&s' alt='PowerBI' height='30'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdD07Wmb_onuF5t2hwRKrBH7HYc7fCE0A0A&s' alt='Tableau' height='30'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s' alt='HTML5' height='30'> <img src='https://miro.medium.com/v2/resize:fit:300/1*Aenej4dxqEZ9j7zsI9pSnw.png' alt='CSS3' height='30'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='Bootstrap' height='30'>
+### 🛠️ Skills
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-green?style=for-the-badge)
 
-- 🔭 I’m currently working on Stock Price Predictor
-- 🌱 I’m currently learning AI-ML and Prompt Engineering
-- 👯 I’m looking to collaborate on any Backend Development or Python projects
+---
+
+- 🔭 I’m currently working on Stock Price Predictor  
+- 🌱 I’m currently learning AI-ML and Prompt Engineering  
+- 👯 I’m looking to collaborate on any Backend Development or Python projects  
 - 📫 How to reach me:
 
-[<img src='https://a.slack-edge.com/80588/img/plugins/github/service_512.png' alt='github' height='30'>](https://github.com/YJ-928)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s' alt='linkedin' height='30'>](https://www.linkedin.com/in/yash-b-joshi//)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png' alt='instagram' height='30'>](https://www.instagram.com/ybj_928/)  [<img src='https://blwebsite.b-cdn.net/wp-content/uploads/2023/08/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-1704x958-1.jpg' alt='twitter' height='30'>](https://twitter.com/_YashBJoshi)  [<img src='https://cdn3.iconfinder.com/data/icons/social-media-square-4/1024/square-10-512.png' alt='website' height='30'>](https://yashbjoshi-portfolio.netlify.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YJ-928)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-b-joshi//)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ybj_928/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_YashBJoshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yashbjoshi-portfolio.netlify.app/)
+
+---
 
 <a href="https://github.com/YJ-928/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YJ-928&show_icons=true&theme=codeSTACKr&hide_rank=true" />
@@ -21,6 +38,10 @@ Feel free to check out my repositories and contribute!
 <a href="https://github.com/YJ-928/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJ-928&layout=compact&theme=codeSTACKr" />
 </a>
+
+---
+
+### 🔧 Featured Projects
 
 <a href="https://github.com/YJ-928/Bachelors_V-ASSIST_Vehicle-Assistance-And-Safety-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YJ-928&repo=Bachelors_V-ASSIST_Vehicle-Assistance-And-Safety-System&theme=codeSTACKr" />
