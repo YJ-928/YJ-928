@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yash Joshi
+### Hi there 👋, I'm Yash
 #### Backend Developer | API Architect | Software Engineer | AI-Augmented Developer
 
 Building high-performance backend systems, designing clean APIs, and integrating AI into real-world applications. Currently architecting enterprise-grade Video Monitoring Systems and exploring AI-ML integration for intelligent applications.
