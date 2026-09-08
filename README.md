@@ -21,6 +21,14 @@ Building high-performance backend systems, designing clean APIs, and integrating
 
 ---
 
+## 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| **[zigflow/zigflow](https://github.com/zigflow/zigflow)** — durable workflows in YAML, powered by Temporal | [#568](https://github.com/zigflow/zigflow/pull/568) — `fix(utils): honour io.Writer contract in LogWriter.Write`. Fixed an intermittent `short write` failure where a blank chunk returned `n=0` with a nil error, which `io.MultiWriter` turned into `io.ErrShortWrite` and killed the whole command. Root-caused from production, reproduced with a regression test, one-line fix. | ✅ Merged |
+
+---
+
 ## 💻 Tech Stack & Expertise
 
 ### Backend Development
@@ -127,7 +135,7 @@ Building high-performance backend systems, designing clean APIs, and integrating
 - 🔌 RESTful API & Microservices Development
 - 📊 Data Engineering & Analytics Solutions
 - 🤖 AI/ML Integration Projects
-- 🎯 Open Source Contributions
+- 🎯 Open Source Contributions ([see above](#-open-source-contributions))
 
 ---
 
