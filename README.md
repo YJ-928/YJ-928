@@ -28,8 +28,17 @@ async data layers, streaming pipelines, and the compilers and schedulers underne
 
 Durable workflows in YAML, powered by Temporal
 
+**2 PRs merged**
+
 </td>
 <td>
+
+✅ **[#574 — Merged](https://github.com/zigflow/zigflow/pull/574)** · `fix(http): encode the request body for the declared Content-Type`
+
+`call: http` sent every body as JSON, whatever `Content-Type` the workflow declared — so an OAuth2
+token request marked `application/x-www-form-urlencoded` arrived as JSON and the endpoint reported its
+parameters missing. Headers now resolve before the request is built: form bodies render through
+`url.Values`, string bodies under non-JSON types go verbatim, JSON stays byte-for-byte unchanged.
 
 ✅ **[#568 — Merged](https://github.com/zigflow/zigflow/pull/568)** · `fix(utils): honour io.Writer contract in LogWriter.Write`
 
