@@ -18,39 +18,24 @@ async data layers, streaming pipelines, and the compilers and schedulers underne
 
 <table>
 <tr>
-<td width="30%" align="center">
+<td width="120" align="center">
 
 <a href="https://github.com/zigflow/zigflow">
-  <img src="https://raw.githubusercontent.com/zigflow/zigflow/main/designs/z-logo.png" width="110" alt="Zigflow" />
+  <img src="https://raw.githubusercontent.com/zigflow/zigflow/main/designs/z-logo.png" width="90" alt="Zigflow" />
 </a>
-
-**[zigflow/zigflow](https://github.com/zigflow/zigflow)**
-
-Durable workflows in YAML, powered by Temporal
-
-**2 PRs merged**
 
 </td>
 <td>
 
-✅ **[#574 — Merged](https://github.com/zigflow/zigflow/pull/574)** · `fix(http): encode the request body for the declared Content-Type`
+**[zigflow/zigflow](https://github.com/zigflow/zigflow)** — durable workflows in YAML, powered by Temporal
 
-`call: http` sent every body as JSON, whatever `Content-Type` the workflow declared — so an OAuth2
-token request marked `application/x-www-form-urlencoded` arrived as JSON and the endpoint reported its
-parameters missing. Headers now resolve before the request is built: form bodies render through
-`url.Values`, string bodies under non-JSON types go verbatim, JSON stays byte-for-byte unchanged.
-
-✅ **[#568 — Merged](https://github.com/zigflow/zigflow/pull/568)** · `fix(utils): honour io.Writer contract in LogWriter.Write`
-
-An intermittent `short write` that killed script execution. A blank chunk returned `n=0` with a nil
-error, and `io.MultiWriter` correctly treated that as a short write. Root-caused from a production
-symptom, reproduced with a regression test, fixed in one line.
+✅ **6 PRs merged:** [#609](https://github.com/zigflow/zigflow/pull/609 "fix(run): pass run.workflow.input to the child workflow") · [#592](https://github.com/zigflow/zigflow/pull/592 "feat(validate): warn about nested do tasks mixed with executable tasks") · [#591](https://github.com/zigflow/zigflow/pull/591 "fix(fork): wait for branches to be cancelled before the fork returns") · [#586](https://github.com/zigflow/zigflow/pull/586 "fix(listen): report a listen timeout as the Zigflow timeout error") · [#574](https://github.com/zigflow/zigflow/pull/574 "fix(http): encode the request body for the declared Content-Type") · [#568](https://github.com/zigflow/zigflow/pull/568 "fix(utils): honour io.Writer contract in LogWriter.Write")
 
 </td>
 </tr>
 </table>
 
-📜 Listed in [zigflow's `AUTHORS`](https://github.com/zigflow/zigflow/blob/main/AUTHORS) · more on the way — I'm upstreaming a set of engine fixes one at a time.
+📜 Listed in [zigflow's `AUTHORS`](https://github.com/zigflow/zigflow/blob/main/AUTHORS) · more on the way.
 
 ---
 
