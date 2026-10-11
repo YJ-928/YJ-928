@@ -1,0 +1,37 @@
+name: Contributions ledger
+
+on:
+  schedule:
+    - cron: "41 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contributions.yml
+      - contributions-header.md
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contributions-ledger
+  cancel-in-progress: false
+
+jobs:
+  ledger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - id: ledger
+        uses: YJ-928/upstream-ledger@83deba0f28596a3e43cdcacfd1cb72e42506c0f1
+        with:
+          discussions: "true"
+          header: contributions-header.md
+      - if: steps.ledger.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ledger.json CONTRIBUTIONS.md
+          git commit -m "chore: update the contributions ledger"
+          git pull --rebase
+          git push
