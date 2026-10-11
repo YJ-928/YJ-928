@@ -17,27 +17,23 @@ async data layers, streaming pipelines, and the compilers and schedulers underne
 ## 🌍 Open Source
 
 <table>
-<tr>
-<td width="120" align="center">
-
-<a href="https://github.com/zigflow/zigflow">
-  <img src="https://raw.githubusercontent.com/zigflow/zigflow/main/designs/z-logo.png" width="90" alt="Zigflow" />
-</a>
-
-</td>
-<td>
-
-**[zigflow/zigflow](https://github.com/zigflow/zigflow)** — durable workflows in YAML, powered by Temporal
-
-🛠️ **Maintainer** — on the Zigflow maintainers team since October 2026
-
-✅ **7 PRs merged:** [#615](https://github.com/zigflow/zigflow/pull/615 "fix: resolve activity inputs in the workflow before scheduling") · [#609](https://github.com/zigflow/zigflow/pull/609 "fix(run): pass run.workflow.input to the child workflow") · [#592](https://github.com/zigflow/zigflow/pull/592 "feat(validate): warn about nested do tasks mixed with executable tasks") · [#591](https://github.com/zigflow/zigflow/pull/591 "fix(fork): wait for branches to be cancelled before the fork returns") · [#586](https://github.com/zigflow/zigflow/pull/586 "fix(listen): report a listen timeout as the Zigflow timeout error") · [#574](https://github.com/zigflow/zigflow/pull/574 "fix(http): encode the request body for the declared Content-Type") · [#568](https://github.com/zigflow/zigflow/pull/568 "fix(utils): honour io.Writer contract in LogWriter.Write")
-
-</td>
-</tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/zigflow/zigflow/main/designs/z-logo.png" width="140" alt="Zigflow"></td>
+    <td>
+      <b><a href="https://github.com/zigflow/zigflow">zigflow/zigflow</a></b>: declarative YAML workflows on Temporal, with no SDK boilerplate.<br><br>
+      Zigflow compiles a workflow written in YAML (the CNCF Open Workflow Specification) into a full Temporal workflow, with retries, state management and deterministic execution. Teams get Temporal's durability without writing Go, Java or TypeScript workflow code.<br><br>
+      🛠️ <b>Maintainer</b> since October 2026: reviewing PRs, keeping CI and dependencies healthy, and driving the road to v1.<br><br>
+      <a href="https://github.com/zigflow/zigflow/pulls?q=is%3Apr+is%3Amerged+author%3AYJ-928"><img src="https://img.shields.io/github/issues-search/zigflow/zigflow?query=is%3Apr%20is%3Amerged%20author%3AYJ-928&label=merged%20PRs&color=2ea44f" alt="Merged PRs"></a>
+    </td>
+  </tr>
 </table>
 
-📜 Listed in [zigflow's `AUTHORS`](https://github.com/zigflow/zigflow/blob/main/AUTHORS) · working towards v1.
+**Highlights**
+- **[#615](https://github.com/zigflow/zigflow/pull/615): activity inputs resolved in the workflow.** Every step now receives, and history records, the exact values the workflow computed, so a run can be debugged from its history alone.
+- **[#623](https://github.com/zigflow/zigflow/pull/623): unblocked the project's CI.** A CVE in `golang.org/x/net` had failed the image scan on `main` and on every open PR for two days. The fix brought builds and image publishing back to green.
+- **[#591](https://github.com/zigflow/zigflow/pull/591): cancelling a workflow now stops it.** A fork waits for its branches to be cancelled instead of returning while they keep running.
+
+Full record: [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
 
 ---
 
