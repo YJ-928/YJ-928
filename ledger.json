@@ -1,0 +1,186 @@
+{
+  "user": "YJ-928",
+  "entries": [
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 585,
+      "title": "Validator should flag nested do workflow definitions in mixed task lists",
+      "url": "https://github.com/zigflow/zigflow/issues/585",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-09-16T08:53:44Z",
+      "closedAt": "2026-09-22T17:01:37Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 525,
+      "title": "`for` and `try` blocks compile to child workflows — fan-in read/lock amplification on hot parents at scale",
+      "url": "https://github.com/zigflow/zigflow/issues/525",
+      "state": "OPEN",
+      "createdAt": "2026-07-17T02:58:04Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 491,
+      "title": "Enforce `document.dsl` Version Validation",
+      "url": "https://github.com/zigflow/zigflow/issues/491",
+      "state": "OPEN",
+      "createdAt": "2026-06-16T21:20:16Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 462,
+      "title": "Activity inputs should be expression-evaluated before scheduling activities",
+      "url": "https://github.com/zigflow/zigflow/issues/462",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-06-01T10:13:38Z",
+      "closedAt": "2026-10-08T15:13:54Z"
+    },
+    {
+      "kind": "issue",
+      "repo": "zigflow/zigflow",
+      "number": 608,
+      "title": "run.workflow.input is ignored: the child workflow receives the parent's input",
+      "url": "https://github.com/zigflow/zigflow/issues/608",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-09-29T13:08:38Z",
+      "closedAt": "2026-09-30T08:53:41Z"
+    },
+    {
+      "kind": "issue",
+      "repo": "zigflow/zigflow",
+      "number": 587,
+      "title": "Cancelling a workflow does not stop it: remaining tasks run and it completes",
+      "url": "https://github.com/zigflow/zigflow/issues/587",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-09-17T12:16:04Z",
+      "closedAt": "2026-09-17T20:19:05Z"
+    },
+    {
+      "kind": "issue",
+      "repo": "zigflow/zigflow",
+      "number": 493,
+      "title": "DoTaskBuilder incorrectly drops sibling DoTask after ForTask causing \"next target specified but not found\"",
+      "url": "https://github.com/zigflow/zigflow/issues/493",
+      "state": "CLOSED",
+      "stateReason": "NOT_PLANNED",
+      "createdAt": "2026-06-21T12:35:00Z",
+      "closedAt": "2026-06-22T21:02:00Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 623,
+      "title": "fix(deps): bump golang.org/x/net to v0.60.0 for CVE-2026-78669",
+      "url": "https://github.com/zigflow/zigflow/pull/623",
+      "state": "MERGED",
+      "createdAt": "2026-10-11T04:16:43Z",
+      "closedAt": "2026-10-11T12:41:33Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 622,
+      "title": "test: resolve the temp dir symlink in the working-directory test",
+      "url": "https://github.com/zigflow/zigflow/pull/622",
+      "state": "MERGED",
+      "createdAt": "2026-10-11T03:45:08Z",
+      "closedAt": "2026-10-11T13:40:01Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 615,
+      "title": "fix: resolve activity inputs in the workflow before scheduling",
+      "url": "https://github.com/zigflow/zigflow/pull/615",
+      "state": "MERGED",
+      "createdAt": "2026-10-08T08:51:31Z",
+      "closedAt": "2026-10-08T15:13:53Z",
+      "fixes": [
+        {
+          "number": 462,
+          "url": "https://github.com/zigflow/zigflow/issues/462"
+        }
+      ]
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 609,
+      "title": "fix(run): pass run.workflow.input to the child workflow",
+      "url": "https://github.com/zigflow/zigflow/pull/609",
+      "state": "MERGED",
+      "createdAt": "2026-09-29T13:18:07Z",
+      "closedAt": "2026-09-30T07:52:21Z",
+      "fixes": [
+        {
+          "number": 608,
+          "url": "https://github.com/zigflow/zigflow/issues/608"
+        }
+      ]
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 592,
+      "title": "feat(validate): warn about nested do tasks mixed with executable tasks",
+      "url": "https://github.com/zigflow/zigflow/pull/592",
+      "state": "MERGED",
+      "createdAt": "2026-09-19T12:07:42Z",
+      "closedAt": "2026-09-22T17:01:36Z",
+      "fixes": [
+        {
+          "number": 585,
+          "url": "https://github.com/zigflow/zigflow/issues/585"
+        }
+      ]
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 591,
+      "title": "fix(fork): wait for branches to be cancelled before the fork returns",
+      "url": "https://github.com/zigflow/zigflow/pull/591",
+      "state": "MERGED",
+      "createdAt": "2026-09-18T04:47:05Z",
+      "closedAt": "2026-09-18T07:39:04Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 586,
+      "title": "fix(listen): report a listen timeout as the Zigflow timeout error",
+      "url": "https://github.com/zigflow/zigflow/pull/586",
+      "state": "MERGED",
+      "createdAt": "2026-09-17T12:02:30Z",
+      "closedAt": "2026-09-17T20:00:04Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 574,
+      "title": "fix(http): encode the request body for the declared Content-Type",
+      "url": "https://github.com/zigflow/zigflow/pull/574",
+      "state": "MERGED",
+      "createdAt": "2026-09-10T06:42:17Z",
+      "closedAt": "2026-09-10T11:09:49Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 568,
+      "title": "fix(utils): honour io.Writer contract in LogWriter.Write",
+      "url": "https://github.com/zigflow/zigflow/pull/568",
+      "state": "MERGED",
+      "createdAt": "2026-09-08T09:19:29Z",
+      "closedAt": "2026-09-08T09:54:19Z"
+    }
+  ]
+}
