@@ -95,8 +95,8 @@ Full record: [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
 ## 📊 Language Breakdown
 
 <p align="left">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YJ-928&theme=tokyonight" alt="Top languages by repo" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YJ-928&theme=tokyonight" alt="Top languages by commit" />
+  <img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+  <img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
 </p>
 
 ---
