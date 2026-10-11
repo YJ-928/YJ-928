@@ -111,6 +111,6 @@ Full record: [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
 
 **Backend Engineering · Workflow Orchestration · Distributed Systems**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YJ-928&color=blueviolet&style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/YJ-928.svg?style=for-the-badge&label=Profile%20views&color=8b5cf6)
 
 </div>
