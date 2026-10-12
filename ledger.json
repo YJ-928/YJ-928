@@ -77,6 +77,16 @@
     {
       "kind": "pull_request",
       "repo": "zigflow/zigflow",
+      "number": 626,
+      "title": "refactor!: remove the GetVersion gates for activity inputs and activity names",
+      "url": "https://github.com/zigflow/zigflow/pull/626",
+      "state": "MERGED",
+      "createdAt": "2026-10-12T05:37:01Z",
+      "closedAt": "2026-10-12T08:25:28Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
       "number": 623,
       "title": "fix(deps): bump golang.org/x/net to v0.60.0 for CVE-2026-78669",
       "url": "https://github.com/zigflow/zigflow/pull/623",

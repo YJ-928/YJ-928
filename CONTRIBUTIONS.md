@@ -2,9 +2,9 @@
 
 A record of my work on open-source projects. Maintainer of [zigflow/zigflow](https://github.com/zigflow/zigflow) since October 2026.
 
-Generated daily by [upstream-ledger](https://github.com/YJ-928/upstream-ledger).
+Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**9 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **4 discussions**.
+**10 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **4 discussions**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -12,6 +12,7 @@ Generated daily by [upstream-ledger](https://github.com/YJ-928/upstream-ledger).
 
 | PR | Status | Title | Fixes |
 |---|---|---|---|
+| [#626](https://github.com/zigflow/zigflow/pull/626) | Merged 2026-10-12 | refactor!: remove the GetVersion gates for activity inputs and activity names |  |
 | [#623](https://github.com/zigflow/zigflow/pull/623) | Merged 2026-10-11 | fix(deps): bump golang.org/x/net to v0.60.0 for CVE-2026-78669 |  |
 | [#622](https://github.com/zigflow/zigflow/pull/622) | Merged 2026-10-11 | test: resolve the temp dir symlink in the working-directory test |  |
 | [#615](https://github.com/zigflow/zigflow/pull/615) | Merged 2026-10-08 | fix: resolve activity inputs in the workflow before scheduling | [#462](https://github.com/zigflow/zigflow/issues/462) |

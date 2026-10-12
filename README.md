@@ -34,6 +34,13 @@ async data layers, streaming pipelines, and the compilers and schedulers underne
 - **[#591](https://github.com/zigflow/zigflow/pull/591): cancelling a workflow now stops it.** A fork waits for its branches to be cancelled instead of returning while they keep running.
 
 <!-- oss-contributions-ledger:start -->
+**10 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **4 discussions**.
+
+Latest merged:
+
+- [zigflow/zigflow#626](https://github.com/zigflow/zigflow/pull/626): refactor!: remove the GetVersion gates for activity inputs and activity names (2026-10-12)
+- [zigflow/zigflow#622](https://github.com/zigflow/zigflow/pull/622): test: resolve the temp dir symlink in the working-directory test (2026-10-11)
+- [zigflow/zigflow#623](https://github.com/zigflow/zigflow/pull/623): fix(deps): bump golang.org/x/net to v0.60.0 for CVE-2026-78669 (2026-10-11)
 <!-- oss-contributions-ledger:end -->
 
 Full record: [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
