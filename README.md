@@ -33,6 +33,9 @@ async data layers, streaming pipelines, and the compilers and schedulers underne
 - **[#623](https://github.com/zigflow/zigflow/pull/623): unblocked the project's CI.** A CVE in `golang.org/x/net` had failed the image scan on `main` and on every open PR for two days. The fix brought builds and image publishing back to green.
 - **[#591](https://github.com/zigflow/zigflow/pull/591): cancelling a workflow now stops it.** A fork waits for its branches to be cancelled instead of returning while they keep running.
 
+<!-- oss-contributions-ledger:start -->
+<!-- oss-contributions-ledger:end -->
+
 Full record: [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
 
 ---

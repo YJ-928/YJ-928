@@ -9,6 +9,7 @@ on:
     paths:
       - .github/workflows/contributions.yml
       - contributions-header.md
+      - README.md
 
 permissions:
   contents: write
@@ -23,15 +24,17 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - id: ledger
-        uses: YJ-928/upstream-ledger@83deba0f28596a3e43cdcacfd1cb72e42506c0f1
+        uses: YJ-928/oss-contributions-ledger@f1db7fcea0d6a084de4a3bd3523c0937ed71cd73
         with:
           discussions: "true"
           header: contributions-header.md
+          readme: README.md
+          readme-latest: "3"
       - if: steps.ledger.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ledger.json CONTRIBUTIONS.md
+          git add ledger.json CONTRIBUTIONS.md README.md
           git commit -m "chore: update the contributions ledger"
           git pull --rebase
           git push
