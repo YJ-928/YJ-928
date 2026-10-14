@@ -4,6 +4,26 @@
     {
       "kind": "discussion",
       "repo": "zigflow/zigflow",
+      "number": 627,
+      "title": "Allow health check and prometheus ports to bind to a random port",
+      "url": "https://github.com/zigflow/zigflow/issues/627",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-10-13T08:23:28Z",
+      "closedAt": "2026-10-13T17:00:47Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 617,
+      "title": "Change scheduleWorkflowName metadata to scheduleWorkflowType",
+      "url": "https://github.com/zigflow/zigflow/issues/617",
+      "state": "OPEN",
+      "createdAt": "2026-10-09T19:07:37Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
       "number": 585,
       "title": "Validator should flag nested do workflow definitions in mixed task lists",
       "url": "https://github.com/zigflow/zigflow/issues/585",

@@ -4,7 +4,7 @@ A record of my work on open-source projects. Maintainer of [zigflow/zigflow](htt
 
 Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**10 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **4 discussions**.
+**10 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **6 discussions**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -35,6 +35,8 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | Issue | Title | Status |
 |---|---|---|
+| [#627](https://github.com/zigflow/zigflow/issues/627) | Allow health check and prometheus ports to bind to a random port | Completed 2026-10-13 |
+| [#617](https://github.com/zigflow/zigflow/issues/617) | Change scheduleWorkflowName metadata to scheduleWorkflowType | Open |
 | [#585](https://github.com/zigflow/zigflow/issues/585) | Validator should flag nested do workflow definitions in mixed task lists | Completed 2026-09-22 |
 | [#525](https://github.com/zigflow/zigflow/issues/525) | `for` and `try` blocks compile to child workflows — fan-in read/lock amplification on hot parents at scale | Open |
 | [#491](https://github.com/zigflow/zigflow/issues/491) | Enforce `document.dsl` Version Validation | Open |
