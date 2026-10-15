@@ -24,9 +24,10 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - id: ledger
-        uses: YJ-928/oss-contributions-ledger@f1db7fcea0d6a084de4a3bd3523c0937ed71cd73
+        uses: YJ-928/oss-contributions-ledger@f0469319e99dd74c6d582e95730319d24b675814
         with:
           discussions: "true"
+          reviews: "true"
           header: contributions-header.md
           readme: README.md
           readme-latest: "3"
