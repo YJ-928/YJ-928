@@ -4,7 +4,7 @@ A record of my work on open-source projects. Maintainer of [zigflow/zigflow](htt
 
 Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**10 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **6 discussions**.
+**10 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **6 discussions**. Reviewed **2 pull requests**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -41,3 +41,10 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 | [#525](https://github.com/zigflow/zigflow/issues/525) | `for` and `try` blocks compile to child workflows — fan-in read/lock amplification on hot parents at scale | Open |
 | [#491](https://github.com/zigflow/zigflow/issues/491) | Enforce `document.dsl` Version Validation | Open |
 | [#462](https://github.com/zigflow/zigflow/issues/462) | Activity inputs should be expression-evaluated before scheduling activities | Completed 2026-10-08 |
+
+### Reviews given
+
+| PR | Author | Title | Status |
+|---|---|---|---|
+| [#624](https://github.com/zigflow/zigflow/pull/624) | [@ShlomitSibony](https://github.com/ShlomitSibony) | feat(tasks)!: run for and try bodies inline in the parent workflow | Open |
+| [#595](https://github.com/zigflow/zigflow/pull/595) | [@arthurepc](https://github.com/arthurepc) | feat(cli): add reusable workflow test runner with isolated queues | Open |
