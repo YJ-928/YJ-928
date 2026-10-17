@@ -4,6 +4,24 @@
     {
       "kind": "discussion",
       "repo": "zigflow/zigflow",
+      "number": 630,
+      "title": "`fork` branch made only of `do` tasks never completes: `unable to find workflow type: workflow_fork_\u003ctask\u003e_\u003cbranch\u003e`",
+      "url": "https://github.com/zigflow/zigflow/issues/630",
+      "state": "OPEN",
+      "createdAt": "2026-10-15T18:08:30Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 629,
+      "title": "`raise` and `listen` timeout set the error `instance` to the workflow ID instead of a JSON Pointer to the task",
+      "url": "https://github.com/zigflow/zigflow/issues/629",
+      "state": "OPEN",
+      "createdAt": "2026-10-15T18:08:29Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
       "number": 627,
       "title": "Allow health check and prometheus ports to bind to a random port",
       "url": "https://github.com/zigflow/zigflow/issues/627",
@@ -38,8 +56,10 @@
       "number": 525,
       "title": "`for` and `try` blocks compile to child workflows — fan-in read/lock amplification on hot parents at scale",
       "url": "https://github.com/zigflow/zigflow/issues/525",
-      "state": "OPEN",
-      "createdAt": "2026-07-17T02:58:04Z"
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-07-17T02:58:04Z",
+      "closedAt": "2026-10-16T16:01:44Z"
     },
     {
       "kind": "discussion",
@@ -218,8 +238,9 @@
       "number": 624,
       "title": "feat(tasks)!: run for and try bodies inline in the parent workflow",
       "url": "https://github.com/zigflow/zigflow/pull/624",
-      "state": "OPEN",
+      "state": "MERGED",
       "createdAt": "2026-10-11T23:05:56Z",
+      "closedAt": "2026-10-16T16:01:43Z",
       "fixes": [
         {
           "number": 525,
