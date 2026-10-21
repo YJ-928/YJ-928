@@ -12,6 +12,8 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | PR | Status | Title | Fixes |
 |---|---|---|---|
+| [#638](https://github.com/zigflow/zigflow/pull/638) | Open | fix(tasks)!: set the error instance to a JSON Pointer to the task | [#629](https://github.com/zigflow/zigflow/issues/629) |
+| [#637](https://github.com/zigflow/zigflow/pull/637) | Open | fix(do): register every task list that runs as its own workflow | [#630](https://github.com/zigflow/zigflow/issues/630) |
 | [#626](https://github.com/zigflow/zigflow/pull/626) | Merged 2026-10-12 | refactor!: remove the GetVersion gates for activity inputs and activity names |  |
 | [#623](https://github.com/zigflow/zigflow/pull/623) | Merged 2026-10-11 | fix(deps): bump golang.org/x/net to v0.60.0 for CVE-2026-78669 |  |
 | [#622](https://github.com/zigflow/zigflow/pull/622) | Merged 2026-10-11 | test: resolve the temp dir symlink in the working-directory test |  |

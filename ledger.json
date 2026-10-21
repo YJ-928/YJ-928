@@ -117,6 +117,36 @@
     {
       "kind": "pull_request",
       "repo": "zigflow/zigflow",
+      "number": 638,
+      "title": "fix(tasks)!: set the error instance to a JSON Pointer to the task",
+      "url": "https://github.com/zigflow/zigflow/pull/638",
+      "state": "OPEN",
+      "createdAt": "2026-10-21T06:10:37Z",
+      "fixes": [
+        {
+          "number": 629,
+          "url": "https://github.com/zigflow/zigflow/issues/629"
+        }
+      ]
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 637,
+      "title": "fix(do): register every task list that runs as its own workflow",
+      "url": "https://github.com/zigflow/zigflow/pull/637",
+      "state": "OPEN",
+      "createdAt": "2026-10-21T05:52:00Z",
+      "fixes": [
+        {
+          "number": 630,
+          "url": "https://github.com/zigflow/zigflow/issues/630"
+        }
+      ]
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
       "number": 626,
       "title": "refactor!: remove the GetVersion gates for activity inputs and activity names",
       "url": "https://github.com/zigflow/zigflow/pull/626",
