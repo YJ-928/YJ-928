@@ -7,8 +7,10 @@
       "number": 630,
       "title": "`fork` branch made only of `do` tasks never completes: `unable to find workflow type: workflow_fork_\u003ctask\u003e_\u003cbranch\u003e`",
       "url": "https://github.com/zigflow/zigflow/issues/630",
-      "state": "OPEN",
-      "createdAt": "2026-10-15T18:08:30Z"
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-10-15T18:08:30Z",
+      "closedAt": "2026-10-23T12:56:07Z"
     },
     {
       "kind": "discussion",
@@ -16,8 +18,10 @@
       "number": 629,
       "title": "`raise` and `listen` timeout set the error `instance` to the workflow ID instead of a JSON Pointer to the task",
       "url": "https://github.com/zigflow/zigflow/issues/629",
-      "state": "OPEN",
-      "createdAt": "2026-10-15T18:08:29Z"
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-10-15T18:08:29Z",
+      "closedAt": "2026-10-23T12:49:26Z"
     },
     {
       "kind": "discussion",
@@ -38,6 +42,17 @@
       "url": "https://github.com/zigflow/zigflow/issues/617",
       "state": "OPEN",
       "createdAt": "2026-10-09T19:07:37Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
+      "number": 590,
+      "title": "Update Homebrew cask to use postflight_steps",
+      "url": "https://github.com/zigflow/zigflow/issues/590",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-09-17T20:50:40Z",
+      "closedAt": "2026-10-23T13:15:50Z"
     },
     {
       "kind": "discussion",
@@ -120,8 +135,9 @@
       "number": 638,
       "title": "fix(tasks)!: set the error instance to a JSON Pointer to the task",
       "url": "https://github.com/zigflow/zigflow/pull/638",
-      "state": "OPEN",
+      "state": "MERGED",
       "createdAt": "2026-10-21T06:10:37Z",
+      "closedAt": "2026-10-23T12:49:24Z",
       "fixes": [
         {
           "number": 629,
@@ -135,8 +151,9 @@
       "number": 637,
       "title": "fix(do): register every task list that runs as its own workflow",
       "url": "https://github.com/zigflow/zigflow/pull/637",
-      "state": "OPEN",
+      "state": "MERGED",
       "createdAt": "2026-10-21T05:52:00Z",
+      "closedAt": "2026-10-23T12:56:06Z",
       "fixes": [
         {
           "number": 630,
