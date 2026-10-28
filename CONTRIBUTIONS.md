@@ -4,7 +4,7 @@ A record of my work on open-source projects. Maintainer of [zigflow/zigflow](htt
 
 Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**12 merged pull requests** across **1 repository**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **2 pull requests**.
+**12 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **2 pull requests**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -53,3 +53,11 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 |---|---|---|---|
 | [#624](https://github.com/zigflow/zigflow/pull/624) | [@ShlomitSibony](https://github.com/ShlomitSibony) | feat(tasks)!: run for and try bodies inline in the parent workflow | Merged 2026-10-16 |
 | [#595](https://github.com/zigflow/zigflow/pull/595) | [@arthurepc](https://github.com/arthurepc) | feat(cli): add reusable workflow test runner with isolated queues | Open |
+
+## [zigflow/schema](https://github.com/zigflow/schema)
+
+### Pull requests
+
+| PR | Status | Title | Fixes |
+|---|---|---|---|
+| [#22](https://github.com/zigflow/schema/pull/22) | Open | feat: add scheduleWorkflowType and deprecate scheduleWorkflowName |  |

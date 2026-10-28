@@ -2,6 +2,15 @@
   "user": "YJ-928",
   "entries": [
     {
+      "kind": "pull_request",
+      "repo": "zigflow/schema",
+      "number": 22,
+      "title": "feat: add scheduleWorkflowType and deprecate scheduleWorkflowName",
+      "url": "https://github.com/zigflow/schema/pull/22",
+      "state": "OPEN",
+      "createdAt": "2026-10-28T09:27:23Z"
+    },
+    {
       "kind": "discussion",
       "repo": "zigflow/zigflow",
       "number": 630,
