@@ -7,8 +7,9 @@
       "number": 22,
       "title": "feat: add scheduleWorkflowType and deprecate scheduleWorkflowName",
       "url": "https://github.com/zigflow/schema/pull/22",
-      "state": "OPEN",
-      "createdAt": "2026-10-28T09:27:23Z"
+      "state": "MERGED",
+      "createdAt": "2026-10-28T09:27:23Z",
+      "closedAt": "2026-10-28T11:02:26Z"
     },
     {
       "kind": "discussion",
@@ -137,6 +138,21 @@
       "stateReason": "NOT_PLANNED",
       "createdAt": "2026-06-21T12:35:00Z",
       "closedAt": "2026-06-22T21:02:00Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 644,
+      "title": "feat: add scheduleWorkflowType and deprecate scheduleWorkflowName",
+      "url": "https://github.com/zigflow/zigflow/pull/644",
+      "state": "OPEN",
+      "createdAt": "2026-10-28T11:42:28Z",
+      "fixes": [
+        {
+          "number": 617,
+          "url": "https://github.com/zigflow/zigflow/issues/617"
+        }
+      ]
     },
     {
       "kind": "pull_request",

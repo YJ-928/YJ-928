@@ -4,7 +4,7 @@ A record of my work on open-source projects. Maintainer of [zigflow/zigflow](htt
 
 Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**12 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **2 pull requests**.
+**13 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **2 pull requests**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -12,6 +12,7 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | PR | Status | Title | Fixes |
 |---|---|---|---|
+| [#644](https://github.com/zigflow/zigflow/pull/644) | Open | feat: add scheduleWorkflowType and deprecate scheduleWorkflowName | [#617](https://github.com/zigflow/zigflow/issues/617) |
 | [#638](https://github.com/zigflow/zigflow/pull/638) | Merged 2026-10-23 | fix(tasks)!: set the error instance to a JSON Pointer to the task | [#629](https://github.com/zigflow/zigflow/issues/629) |
 | [#637](https://github.com/zigflow/zigflow/pull/637) | Merged 2026-10-23 | fix(do): register every task list that runs as its own workflow | [#630](https://github.com/zigflow/zigflow/issues/630) |
 | [#626](https://github.com/zigflow/zigflow/pull/626) | Merged 2026-10-12 | refactor!: remove the GetVersion gates for activity inputs and activity names |  |
@@ -60,4 +61,4 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | PR | Status | Title | Fixes |
 |---|---|---|---|
-| [#22](https://github.com/zigflow/schema/pull/22) | Open | feat: add scheduleWorkflowType and deprecate scheduleWorkflowName |  |
+| [#22](https://github.com/zigflow/schema/pull/22) | Merged 2026-10-28 | feat: add scheduleWorkflowType and deprecate scheduleWorkflowName |  |
