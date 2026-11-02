@@ -12,6 +12,16 @@
       "closedAt": "2026-10-28T11:02:26Z"
     },
     {
+      "kind": "review",
+      "repo": "zigflow/schema",
+      "number": 25,
+      "title": "feat: Add optional task queue prop to RunWorkflow",
+      "url": "https://github.com/zigflow/schema/pull/25",
+      "state": "OPEN",
+      "createdAt": "2026-10-30T10:48:42Z",
+      "author": "SGunner2014"
+    },
+    {
       "kind": "discussion",
       "repo": "zigflow/zigflow",
       "number": 630,

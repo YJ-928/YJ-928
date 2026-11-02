@@ -4,7 +4,7 @@ A record of my work on open-source projects. Maintainer of [zigflow/zigflow](htt
 
 Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**13 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **2 pull requests**.
+**13 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **3 pull requests**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -62,3 +62,9 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 | PR | Status | Title | Fixes |
 |---|---|---|---|
 | [#22](https://github.com/zigflow/schema/pull/22) | Merged 2026-10-28 | feat: add scheduleWorkflowType and deprecate scheduleWorkflowName |  |
+
+### Reviews given
+
+| PR | Author | Title | Status |
+|---|---|---|---|
+| [#25](https://github.com/zigflow/schema/pull/25) | [@SGunner2014](https://github.com/SGunner2014) | feat: Add optional task queue prop to RunWorkflow | Open |

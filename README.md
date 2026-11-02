@@ -34,7 +34,7 @@ async data layers, streaming pipelines, and the compilers and schedulers underne
 - **[#591](https://github.com/zigflow/zigflow/pull/591): cancelling a workflow now stops it.** A fork waits for its branches to be cancelled instead of returning while they keep running.
 
 <!-- oss-contributions-ledger:start -->
-**13 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **2 pull requests**.
+**13 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **3 pull requests**.
 
 Latest merged:
 
