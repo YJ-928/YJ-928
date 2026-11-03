@@ -67,4 +67,4 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | PR | Author | Title | Status |
 |---|---|---|---|
-| [#25](https://github.com/zigflow/schema/pull/25) | [@SGunner2014](https://github.com/SGunner2014) | feat: Add optional task queue prop to RunWorkflow | Open |
+| [#25](https://github.com/zigflow/schema/pull/25) | [@SGunner2014](https://github.com/SGunner2014) | feat: Add optional task queue prop to RunWorkflow | Merged 2026-11-03 |
