@@ -61,8 +61,10 @@
       "number": 617,
       "title": "Change scheduleWorkflowName metadata to scheduleWorkflowType",
       "url": "https://github.com/zigflow/zigflow/issues/617",
-      "state": "OPEN",
-      "createdAt": "2026-10-09T19:07:37Z"
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "createdAt": "2026-10-09T19:07:37Z",
+      "closedAt": "2026-11-09T14:16:46Z"
     },
     {
       "kind": "discussion",
@@ -156,8 +158,9 @@
       "number": 644,
       "title": "feat: add scheduleWorkflowType and deprecate scheduleWorkflowName",
       "url": "https://github.com/zigflow/zigflow/pull/644",
-      "state": "OPEN",
+      "state": "MERGED",
       "createdAt": "2026-10-28T11:42:28Z",
+      "closedAt": "2026-11-09T14:16:44Z",
       "fixes": [
         {
           "number": 617,
@@ -314,6 +317,16 @@
       "state": "MERGED",
       "createdAt": "2026-09-08T09:19:29Z",
       "closedAt": "2026-09-08T09:54:19Z"
+    },
+    {
+      "kind": "review",
+      "repo": "zigflow/zigflow",
+      "number": 647,
+      "title": "fix(tasks): prevent nil pointer dereference in raise task when title is omitted",
+      "url": "https://github.com/zigflow/zigflow/pull/647",
+      "state": "OPEN",
+      "createdAt": "2026-11-03T09:07:28Z",
+      "author": "jaisondavid-m"
     },
     {
       "kind": "review",
