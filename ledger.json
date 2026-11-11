@@ -25,6 +25,15 @@
     {
       "kind": "discussion",
       "repo": "zigflow/zigflow",
+      "number": 655,
+      "title": "Evaluate managed AI code review alternatives to the custom PR review workflow",
+      "url": "https://github.com/zigflow/zigflow/issues/655",
+      "state": "OPEN",
+      "createdAt": "2026-11-09T18:04:54Z"
+    },
+    {
+      "kind": "discussion",
+      "repo": "zigflow/zigflow",
       "number": 630,
       "title": "`fork` branch made only of `do` tasks never completes: `unable to find workflow type: workflow_fork_\u003ctask\u003e_\u003cbranch\u003e`",
       "url": "https://github.com/zigflow/zigflow/issues/630",
@@ -151,6 +160,16 @@
       "stateReason": "NOT_PLANNED",
       "createdAt": "2026-06-21T12:35:00Z",
       "closedAt": "2026-06-22T21:02:00Z"
+    },
+    {
+      "kind": "pull_request",
+      "repo": "zigflow/zigflow",
+      "number": 657,
+      "title": "ci: run the pr review job on ubuntu-24.04",
+      "url": "https://github.com/zigflow/zigflow/pull/657",
+      "state": "MERGED",
+      "createdAt": "2026-11-11T05:02:32Z",
+      "closedAt": "2026-11-11T07:27:08Z"
     },
     {
       "kind": "pull_request",
@@ -324,8 +343,9 @@
       "number": 647,
       "title": "fix(tasks): prevent nil pointer dereference in raise task when title is omitted",
       "url": "https://github.com/zigflow/zigflow/pull/647",
-      "state": "OPEN",
+      "state": "MERGED",
       "createdAt": "2026-11-03T09:07:28Z",
+      "closedAt": "2026-11-11T08:45:41Z",
       "author": "jaisondavid-m"
     },
     {

@@ -4,7 +4,7 @@ A record of my work on open-source projects. Maintainer of [zigflow/zigflow](htt
 
 Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-contributions-ledger).
 
-**14 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **9 discussions**. Reviewed **4 pull requests**.
+**15 merged pull requests** across **2 repositories**, and **3 issues** reported. Took part in **10 discussions**. Reviewed **4 pull requests**.
 
 ## [zigflow/zigflow](https://github.com/zigflow/zigflow)
 
@@ -12,6 +12,7 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | PR | Status | Title | Fixes |
 |---|---|---|---|
+| [#657](https://github.com/zigflow/zigflow/pull/657) | Merged 2026-11-11 | ci: run the pr review job on ubuntu-24.04 |  |
 | [#644](https://github.com/zigflow/zigflow/pull/644) | Merged 2026-11-09 | feat: add scheduleWorkflowType and deprecate scheduleWorkflowName | [#617](https://github.com/zigflow/zigflow/issues/617) |
 | [#638](https://github.com/zigflow/zigflow/pull/638) | Merged 2026-10-23 | fix(tasks)!: set the error instance to a JSON Pointer to the task | [#629](https://github.com/zigflow/zigflow/issues/629) |
 | [#637](https://github.com/zigflow/zigflow/pull/637) | Merged 2026-10-23 | fix(do): register every task list that runs as its own workflow | [#630](https://github.com/zigflow/zigflow/issues/630) |
@@ -38,6 +39,7 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | Issue | Title | Status |
 |---|---|---|
+| [#655](https://github.com/zigflow/zigflow/issues/655) | Evaluate managed AI code review alternatives to the custom PR review workflow | Open |
 | [#630](https://github.com/zigflow/zigflow/issues/630) | `fork` branch made only of `do` tasks never completes: `unable to find workflow type: workflow_fork_<task>_<branch>` | Completed 2026-10-23 |
 | [#629](https://github.com/zigflow/zigflow/issues/629) | `raise` and `listen` timeout set the error `instance` to the workflow ID instead of a JSON Pointer to the task | Completed 2026-10-23 |
 | [#627](https://github.com/zigflow/zigflow/issues/627) | Allow health check and prometheus ports to bind to a random port | Completed 2026-10-13 |
@@ -52,7 +54,7 @@ Generated daily by [oss-contributions-ledger](https://github.com/YJ-928/oss-cont
 
 | PR | Author | Title | Status |
 |---|---|---|---|
-| [#647](https://github.com/zigflow/zigflow/pull/647) | [@jaisondavid-m](https://github.com/jaisondavid-m) | fix(tasks): prevent nil pointer dereference in raise task when title is omitted | Open |
+| [#647](https://github.com/zigflow/zigflow/pull/647) | [@jaisondavid-m](https://github.com/jaisondavid-m) | fix(tasks): prevent nil pointer dereference in raise task when title is omitted | Merged 2026-11-11 |
 | [#624](https://github.com/zigflow/zigflow/pull/624) | [@ShlomitSibony](https://github.com/ShlomitSibony) | feat(tasks)!: run for and try bodies inline in the parent workflow | Merged 2026-10-16 |
 | [#595](https://github.com/zigflow/zigflow/pull/595) | [@arthurepc](https://github.com/arthurepc) | feat(cli): add reusable workflow test runner with isolated queues | Open |
 
